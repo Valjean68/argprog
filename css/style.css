@@ -209,9 +209,4 @@ footer{
   font-family: trirong;
 }
 
-@media screen and (max-width: 800px) {
-  .body, .footer {
-    font-size:1vw;
-  }
- 
-}
+
