@@ -216,8 +216,5 @@ footer{
   .body, .footer {
     font-size:1vw;
   }
-  .izquierda, .derecha{
-    width: 100%;
-  text-align: center;
-  }
+ 
 }
