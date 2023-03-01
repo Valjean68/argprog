@@ -204,7 +204,8 @@ footer{
 }
 
 @media screen and (max-width: 800px) {
-  .body {
-    font-size:1vw
+  .body, .footer {
+    box-sizing: border-box;
+    font-size:1vw;
   }
 }
